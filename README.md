@@ -167,11 +167,6 @@ The administrator can log in to the firebase site and send a real-time notificat
 # Additional Features:
 The user can choose to use the application without registration. However, the user can only use maps, dialog, emergency calls, and contact us, including feedback form and regular phone call. In addition, at the beginning, the user can either choose to use the application in Arabic or English language. When the user signs up, the next time the user enters the application, he/she will be directed to the home page directly.
 
-The application is created by: 
-* Aymen Nacer
-* Ahmed Alrazouq
-* Naif Alobaid
-
 
 
 
